@@ -46,5 +46,5 @@ This approach is suitable for Congklak because the game involves **sequential de
 
 ##  Author
 
-**Sarra Homada**
+**Sarra Homada** &
 **Salma Belaalia**
